@@ -1,7 +1,7 @@
 # Hei, jeg er Jafar 👋
 
 🎓 Bachelor i Cybersecurity @ Høyskolen Kristiania (2026)
-🔐 Interessert i anomaly detection, pentesting og sikkerhet
+🔐 Interessert i pentesting og sikkerhet
 📜 Studerer til CompTIA Security+
 🌍 Flerspråklig: Norsk, Engelsk, Arabisk
 
